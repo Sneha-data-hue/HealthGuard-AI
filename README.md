@@ -48,7 +48,7 @@ HealthGuard AI is a machine learning-powered web application that predicts the r
 ---
 
 ## 🌐 Live App
-👉 (Add your Streamlit link here after deployment)
+👉 https://healthguard-ai-6tjftzstdhiigcbuwyocex.streamlit.app/
 
 ---
 
