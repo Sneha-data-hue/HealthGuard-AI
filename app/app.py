@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 
 # Load trained model
-model = pickle.load(open('../models/rf_model.pkl', 'rb'))
+model = pickle.load(open('models/rf_model.pkl', 'rb'))
 
 # Sidebar
 st.sidebar.title(" HealthGuard AI")
